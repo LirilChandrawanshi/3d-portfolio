@@ -15,43 +15,31 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Software Engineer</h4>
+                <h5>Univest, Investment & Finance Platform</h5>
               </div>
-              <h3>2020</h3>
+              <h3>Jul 2025 - Present</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Built end-to-end subscription-based brokerage plans system using Next.js (SSR) for a fintech
+              platform with 100k+ daily active users. Implemented institutional trade pricing, coupons, auto-pay
+              discounts, and GST calculations. Orchestrated the build-out of a News CMS utilizing Spring Boot,
+              establishing comprehensive CRUD functionality; integrated German AI API for news tagging and cutting-edge information time by 40%.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Java Developer Intern</h4>
+                <h5>Monkhub Innovations, Changemakers' Ecosystem Project</h5>
               </div>
-              <h3>2021</h3>
+              <h3>Apr 2025 - Jul 2025</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Engineered scalable REST APIs with Java and Spring Boot, modernizing legacy systems and optimizing
+              data retrieval. Resolved API performance bottlenecks by refactoring GET to POST endpoints, improving
+              efficiency by 40%. Collaborated with a team of 5 developers on backend architecture design, ensuring
+              seamless integration with frontend components and smooth data flow across microservices.
             </p>
           </div>
         </div>
